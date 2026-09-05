@@ -1,0 +1,86 @@
+[
+  {
+    "id": "shoe_001",
+    "name": "StrideX Runner Pro",
+    "category": "running_shoes",
+    "price": 3499,
+    "stock": 20,
+    "rating": 4.6,
+    "description": "Lightweight running shoes with breathable mesh and cushioned sole.",
+    "features": [
+      "Lightweight",
+      "Breathable",
+      "Cushioned sole"
+    ]
+  },
+  {
+    "id": "shoe_002",
+    "name": "StrideX Speed Max",
+    "category": "running_shoes",
+    "price": 4299,
+    "stock": 15,
+    "rating": 4.7,
+    "description": "Performance running shoes designed for speed and daily training.",
+    "features": [
+      "Performance foam",
+      "Lightweight",
+      "High durability"
+    ]
+  },
+  {
+    "id": "shoe_003",
+    "name": "StrideX Everyday Runner",
+    "category": "running_shoes",
+    "price": 2799,
+    "stock": 30,
+    "rating": 4.4,
+    "description": "Affordable everyday running shoes for beginners and casual runners.",
+    "features": [
+      "Comfortable",
+      "Lightweight",
+      "Everyday use"
+    ]
+  },
+  {
+    "id": "sock_001",
+    "name": "StrideX Performance Socks",
+    "category": "accessories",
+    "price": 399,
+    "stock": 50,
+    "rating": 4.5,
+    "description": "Moisture-wicking performance socks designed for running.",
+    "features": [
+      "Moisture wicking",
+      "Anti-blister",
+      "Breathable"
+    ]
+  },
+  {
+    "id": "bottle_001",
+    "name": "StrideX Sports Bottle",
+    "category": "accessories",
+    "price": 599,
+    "stock": 40,
+    "rating": 4.6,
+    "description": "750ml reusable sports water bottle.",
+    "features": [
+      "750ml",
+      "Leak resistant",
+      "BPA free"
+    ]
+  },
+  {
+    "id": "bag_001",
+    "name": "StrideX Shoe Bag",
+    "category": "accessories",
+    "price": 299,
+    "stock": 35,
+    "rating": 4.3,
+    "description": "Compact shoe storage bag for travel and gym use.",
+    "features": [
+      "Water resistant",
+      "Compact",
+      "Travel friendly"
+    ]
+  }
+]
